@@ -1,0 +1,24 @@
+{
+  "name": "words",
+  "version": "1.0.0",
+  "description": "Flash-cards plus dictionary (ru <-> en)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirvickr/words.git"
+  },
+  "keywords": [
+    "words",
+    "flash-cards",
+    "dictionary"
+  ],
+  "author": "Victor Krasnov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sirvickr/words/issues"
+  },
+  "homepage": "https://github.com/sirvickr/words#readme"
+}
